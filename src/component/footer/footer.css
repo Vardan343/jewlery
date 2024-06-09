@@ -1,0 +1,15 @@
+.footer {
+  width: 100%;
+  background-color: #333;
+  color: #fff;
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.text-center {
+  text-align: center;
+  margin: 40px 0;
+}
+
+

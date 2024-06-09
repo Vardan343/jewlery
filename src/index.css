@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  background-image: linear-gradient(to right, rgba(204, 204, 204, 0), rgba(204, 204, 204, 0)), url(https://websitedemos.net/jewellery-04/wp-content/uploads/sites/188/2018/03/body-bg-free-img.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  
+}

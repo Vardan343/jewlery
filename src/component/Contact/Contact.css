@@ -1,0 +1,74 @@
+.maps {
+  margin: 10px;
+}
+
+.Broadway {
+  width: 98%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #1f1f1f;
+  margin: 8px;
+  padding: 20px;
+
+}
+
+.phone-number {
+  color: #ffda79;
+  font-size: 2.625rem;
+  line-height: 1.3em;
+  letter-spacing: 0.3rem;
+  font-family: 'sans-serif';
+}
+
+.Broadway p {
+  padding: 30px;
+  font-size: 1.625rem;
+  font-family: 'Playfair Display', serif;
+  color: #fff;
+}
+
+.fa {
+  font-size: 20px;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+
+}
+
+.fa:hover {
+  font-size: 20px;
+  color: #fff;
+
+}
+
+a.social {
+  margin: 0 1rem;
+  transition: transform 250ms;
+  display: inline-block;
+}
+
+a.social:hover {
+  transform: translateY(-2px);
+}
+
+
+a {
+  color: #fff;
+}
+
+
+a.youtube:hover {
+  color: #eb3223;
+}
+
+a.facebook:hover {
+  color: #4968ad;
+}
+
+
+a.instagram:hover {
+  color: rgb(212, 28, 92);
+}
